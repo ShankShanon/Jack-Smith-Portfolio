@@ -1,0 +1,26 @@
+.oranger-highlight {
+    color: #e08685;
+}
+.up-section {
+    font-family: 'Roboto Condensed', sans-serif;
+    float: left;
+    width: 40%;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+ .img1 {
+    width:40%;
+}
+a{
+    text-decoration: none;
+    color: hsl(0, 6%, 90%);
+    font-weight: 900;
+    background-color: palevioletred;
+    background-image: -o-linear-gradient(#eb4d4b ,#ff7979);
+    padding: .90%;
+    border: radius 0.45%;
+}
+.top {
+    background-image:url(/Assets/images/header-bg.png);
+    background-repeat: no-repeat;
+}
