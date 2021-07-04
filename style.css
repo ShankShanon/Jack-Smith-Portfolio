@@ -1,3 +1,12 @@
+.text1 {
+    padding-top: 10%;
+}
+.text2 {
+    padding-top: 10%;
+   }
+p {
+    color: dimgray;
+}
 .oranger-highlight {
     color: #e08685;
 }
@@ -5,11 +14,12 @@
     font-family: 'Roboto Condensed', sans-serif;
     float: left;
     width: 40%;
-    margin-top: 10%;
     margin-left: 5%;
+    padding-left: 2%;
+    
 }
  .img1 {
-    width:40%;
+    width:100%;
 }
 a{
     text-decoration: none;
@@ -21,6 +31,20 @@ a{
     border: radius 0.45%;
 }
 .top {
-    background-image:url(/Assets/images/header-bg.png);
+    background-image:url(/Assets/images/top-banner.png);
     background-repeat: no-repeat;
+    
+}
+
+.img2 {
+    width: 70%;
+}
+
+}
+.mid {
+    background-image: url(/Assets/images/top-banner.png);
+}
+.h2 {
+    text-align: center;
+    margin-top: 10%;
 }
